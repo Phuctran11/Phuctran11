@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning Information Technology
 - 🥰 I'm interested in Web development, IoT
 - 💬 I can speak English and Japanese
+- I like playing sports, especially badminton.
